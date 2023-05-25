@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aston6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit">Редактировать</string>
+    <string name="input_name">Введите Имя</string>
+    <string name="save">сохранить</string>
+    <string name="input_number">Введите номер телефона</string>
+    <string name="input_name_contact">Введите имя</string>
+</resources>
